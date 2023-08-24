@@ -1,4 +1,4 @@
-# Job Interview Simulator with Langchain and OpenAI API
+# Job Interview Simulator
 
 ## License
 
@@ -27,7 +27,7 @@ Welcome to the Job Interview Simulator – a unique project that combines the po
 
 ### Usage
 
-1. Run the simulator: `python main.py`
+1. Run the simulator: `python app.py`
 2. Follow the prompts to select domain and language.
 3. Have an interactive interview experience!
 4. Click the "Get Report" button to receive your interview report and improvement tips.
